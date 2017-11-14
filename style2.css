@@ -1,0 +1,13 @@
+body {
+    font-family: "Tahoma", serif;
+    font-size: 14px;
+
+}
+p  {
+    text-indent: 25px;
+    line-height: 1,5;
+}
+.important-text {
+    color: blue;
+    font: bold;
+}
